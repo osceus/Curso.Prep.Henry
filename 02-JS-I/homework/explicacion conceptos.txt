@@ -2,4 +2,4 @@
 //Strings : son textos que van entre comillas "texto"
 //Funciones (argumentos, return) :son un conjunto de intrucciones que realizan una tarea
 //Declaraciones if : es un condicional que se usa para definir si es algo falso o verdadero y poder continuar con un proceso 
-//Valores booleanos (true, false) :son valores que se usan para afirmar si algo es verdadero (se activa) o falso (no se activa)
+//Valores booleanos (true, false) :son valores que se usan para afirmar si algo es verdadero (se activa) o falso (no se activa).
