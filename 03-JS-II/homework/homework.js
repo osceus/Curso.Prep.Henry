@@ -53,6 +53,7 @@ if (numero < 50 && numero > 20){
 }
 
 
+
 function esEntero(numero) {
   // Devuelve "true" si "numero" es un entero (int/integer)
   // Ejemplo: 0.8 -> false
