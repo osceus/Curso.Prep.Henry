@@ -3,4 +3,4 @@
 // for : es una instruccion que se usa para repetir una instruccion un numero de veces y sabemos cuantoas veces se va a // ejecutar
 // && : es un operador (y) que se utiliza para comparar dos variables y de su comparacion las convierte en falso o  verdadero
 // ||: es otro operador (o) que compara dos expresiones y si son falsas o verdaderas ejecutara o no una instruccion
-// !: es un operador (no) y que convierte en no cualquier afirmacion falsa o verdadera
+// !: es un operador (no) y que convierte en no cualquier afirmacion falsa o verdadera.
