@@ -2,4 +2,4 @@
 //Propiedades : son las acciones o variables que podemos hacer sobre los objetos
 //Métodos : son instrucciones que cambian los valores a las propiedades 
 //Bucle for…in : se utiliza para repetir una o más instrucciones un determinado número de veces
-//Notación de puntos vs notación de corchetes : son maneras de acceder a las propiedades o valores de un objeto, la notacion de puntos, usamos corchetes podemos acceder a propiedades que tienen un espacio o carácter no permitido en la notación de punto.
+//Notación de puntos vs notación de corchetes : son maneras de acceder a las propiedades o valores de un objeto, la notacion de puntos, usamos corchetes podemos acceder a propiedades que tienen un espacio o carácter no permitido en la notación de punto ..
