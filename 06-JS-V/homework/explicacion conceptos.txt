@@ -1,0 +1,2 @@
+//`prototype` : Los prototipos son un mecanismo mediante el cual los objetos heredan características entre sí.
+//* _Constructors_ (de Clases) : Es una funcion pque permite crear obejtos 
